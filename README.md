@@ -26,3 +26,6 @@ Here are some ideas to get you started:
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tomo1227&theme=tokyonight&column=7)](https://github.com/tomo1227/github-profile-trophy)
+
+
+[![](https://github-readme-streak-stats.herokuapp.com/?user=tomo1227&theme=tokyonight)](https://github-readme-streak-stats.herokuapp.com/?user=tomo1227&theme=tokyonight)
